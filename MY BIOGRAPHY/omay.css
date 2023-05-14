@@ -1,0 +1,246 @@
+*{
+
+    margin:0;
+    padding:0;
+}
+html{
+scroll-behavior: smooth;
+font-family: tahoma;
+
+}
+ul{
+list-style: none;
+display: flex;
+position: fixed;
+top:10; left:65%;
+text-align: right;
+padding-top: 35px;
+margin-right: 30px;
+word-spacing: 15%;
+padding: 10px 15px;
+justify-content: space-between;
+
+
+}
+ul li{
+
+height:800px ;
+
+
+}
+
+ ul li a{
+
+    display: flex;
+    justify-content: space-around;
+    width: 100;
+
+color:white;
+text-decoration: none;
+font-size: 10px;
+padding:10px 20px;
+
+font-weight: bold;
+border-radius: 50px;
+transition: 0.2s;
+margin: 5 5px;
+text-align: right;
+
+ }
+ul li a:hover{
+
+    background:white;
+    color: black;
+}
+
+.content{
+
+    display: flex;
+    width: 500%;
+
+}
+section{
+
+    height: 100vh;
+    width: 100vw;
+    display:flex;
+
+
+    
+}
+#section1{
+
+background-image:url(images/5927911.gif ) ;
+background-size: 100% 120%;
+background-repeat: no-repeat;
+}
+
+
+
+#section2{
+
+background-image:url(images/asdas.jpg);
+background-repeat:no-repeat;
+background-size: 100% 100%;
+}
+
+
+
+#section3{
+
+background-image: url(images/kani.gif);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+
+}
+
+
+#section4{
+
+background-image:url(   images/laptop.jpg.jpg    );
+
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+#section5{
+
+background-image: url(images/source.gif);
+
+}
+
+.detel{
+    
+margin-right: 0%;
+margin-top: 20%;
+margin-left: 30%;
+}
+
+.detel h3{
+    font-size: 50px;
+    color:white;
+    margin-bottom: 20px;
+    margin-left: 0%;
+    margin-right: 0;
+    padding-left: 30px;
+}
+span{
+
+    color:orange;
+
+}
+
+.detel p{
+    color :white;
+    line-height: 22px;
+    font-weight: bold;
+    font-family: cursive;
+    padding-left: 130px;
+}
+
+
+ .motor {
+    margin-top: 150px;
+    border-radius: 40%;
+    margin-left: 20px;
+   border:solid 2px black;
+}
+
+.single{
+
+    margin-left: 20px;
+    border:solid 2px black;
+    border-radius: 45%;
+    margin-top: 50px;
+
+
+    
+}
+
+.lingaw{
+    margin-left: 40px ;
+    padding-left: 0%;
+    margin-top: 250px;
+    color:white;
+    font-weight: bold;
+    font-family: times new roman;
+}
+.papa{
+    margin-top: 160px;
+    margin-left: 50px;
+    color:whitesmoke;
+    font-weight: 5px;
+    text-indent: 100px;
+    font-family: Times New Roman;
+    font-size: 1.5em;
+    padding-right: 35px;
+    font-weight: bold;
+}
+.papa a{
+
+    color:red;
+}
+
+.section3 h2{
+
+    color:red;
+}
+
+.flo{
+margin-top: 200px;
+margin-right: 30px;
+ border-radius: 50%; 
+
+}
+
+.section4 .flo:hover{
+
+
+background-color: black;
+
+}
+.nawng{
+color: white;
+
+
+
+font-weight: bold;
+margin-left: 70px;
+
+}
+
+div img{
+
+margin-left: 60px;
+
+margin-top: 80px;
+
+border-radius: 5%;
+
+}
+
+
+
+
+.insta{
+
+color:white;
+font-weight: bold;
+
+margin-left: 73px;
+
+}
+
+
+
+
+.ins{
+
+    margin-top: 200px;
+    margin-right: 500px;
+}
+
+.lihok{
+
+    color:white;
+}
